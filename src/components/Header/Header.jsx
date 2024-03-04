@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './Header.module.scss'
+import styles from './Header.module.css'
 import Logo from "@/components/Header/Logo/Logo";
 import Info from "@/components/Header/Info/Info";
 

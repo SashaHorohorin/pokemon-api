@@ -1,6 +1,6 @@
 'use client'
 import React, {useContext} from 'react';
-import styles from './Button.module.scss'
+import styles from './Button.module.css'
 
 
 const Button = ({name, getClickId}) => {

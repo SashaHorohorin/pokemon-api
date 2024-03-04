@@ -1,5 +1,5 @@
 import React from 'react';
-import styles from './ButtonGroup.module.scss'
+import styles from './ButtonGroup.module.css'
 import Button from "@/components/ButtonGroup/Button/Button";
 
 const ButtonGroup = ({objPoke, getClickId}) => {

@@ -9,7 +9,8 @@
   background: var(--blue);
   margin-right: 6px;
   margin-bottom: 10px;
-  &:last-child{
-    margin: 0;
-  }
+
+}
+.btn&:last-child{
+  margin: 0;
 }
