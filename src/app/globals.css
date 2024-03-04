@@ -31,5 +31,12 @@ body {
   width: 100%;
   min-height: 100vh;
   margin: 0 auto;
+
+}
+@media (max-width: 1040px) {
+  .container{
+    padding: 100px 10px;
+  }
+
 }
 
